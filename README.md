@@ -1,10 +1,35 @@
 # Assignment 2 - Video
 
-demo1 : 
+Code for extra terrian: 
+
+SimpleLecationTrajectoryPlanner.h, renderer.h
+
+Extra terrain:
+
+demo3:
+
+youtube link: https://www.youtube.com/watch?v=mb4gg3iZYn8
+
+polybox link: https://polybox.ethz.ch/index.php/s/svrdKzozppXXNwU
+
+
+
+demo1 :
 
 youtubelink: https://www.youtube.com/watch?v=UAbT-QGwDz0
+
 polyboxlink: https://polybox.ethz.ch/index.php/s/2A8TiuVMTjUOG8U
-password:12345678
+
+demo2 :
+
+youtubelink: https://www.youtube.com/watch?v=7Hx7l7QbGRs
+
+polyboxlink: https://polybox.ethz.ch/index.php/s/pEx1ccsbS0oVnFV
+
+
+
+
+
 
 
 # Assignment 2 - Kinematic walking controller
